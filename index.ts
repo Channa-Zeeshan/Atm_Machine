@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-import Choice from "inquirer/lib/objects/choice.js";
+
 
 let amount: number = 1000;
 let Pin: number = 1234;
